@@ -1,0 +1,13 @@
+.body {
+    width: 100%;
+    min-height: 100vh ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    
+}
+.square {
+    width: 100px;
+    height: 100px;
+}
